@@ -39,7 +39,7 @@ app.config(['$routeProvider',
 app.constant('commonConstants', {
 	TITLE: 'BACKFLIP GIRL',
 	VERSION: '0.0.2',
-	BASE_URL: '/backflip_girl',
+	BASE_URL: '/backflip-girl',
     SUB_TITLES: [
 		'またあたしだよ。',
 		'誰かのために生きる事など、できるのだろうか？',
